@@ -1,2 +1,2 @@
 # Demo
-Just to understand the basics of git and git hub
+Just to understand the basics of git and git hub.
