@@ -1,2 +1,2 @@
 # Demo
-Just to understand the basics of git and git hub.
+this is the private repo just to understand the how github work
